@@ -4,7 +4,7 @@ usage protocols and file archiving
 ## quick start
 ### turning on
 - turn on main switch
-- turn on external exhaust vent fan
+- turn on external exhaust vent fan to *max*
 - ensure laser switch is on
 - ensure water switch is on
   - note: laser will failsafe and stop operation at > 30degC
