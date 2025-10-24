@@ -5,6 +5,7 @@ usage protocols and file archiving
 ### turning on
 - turn on main switch
 - turn on external exhaust vent fan to *max*
+  - a good rule of thumb is that there should be no ambient visible smoke during the cut 
 - ensure laser switch is on
 - ensure water switch is on
   - note: laser will failsafe and stop operation at > 30degC
