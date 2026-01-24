@@ -26,3 +26,7 @@ usage protocols and file archiving
 ## tuning settings
 ### linoleum raster for block printing
 - 3 passes at 100 mm/s and 25% power
+
+## maintenance
+- clean lens
+- align mirrors
